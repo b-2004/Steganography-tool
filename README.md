@@ -53,33 +53,43 @@ This Python script allows users to perform steganography, hiding data within ima
 ## FAQ
 
 - **What is Steganography?**
+
   Steganography is the practice of hiding information within other data.
 
 - **How does the Steganography Tool work?**
+
   This tool hides data within images using the least significant bit (LSB) method.
 
 - **Is the embedded data secure?**
+
   Yes, we use encryption for data security.
 
 - **What types of files can I use?**
+
   PNG images are primarily supported.
 
 - **Is there a data size limit?**
+
   Yes, there's a maximum capacity, and you'll be alerted if you exceed it.
 
 - **How can I prevent data loss?**
+
   Keep backups and records of embedded images.
 
 - **Can I extract data from images?**
+
   Yes, the tool can extract hidden data.
 
 - **Does it affect image quality?**
+
   There is a minimal impact on image quality.
 
 - **Commercial use allowed?**
+
   Yes, but follow data privacy laws.
 
 - **Where can I get support?**
+
   Contact our support team for assistance.
 
 ## Credits
